@@ -20,7 +20,7 @@ Built for speed and accessibility, MerStats Web allows teams, coaches, and scout
 
 This repository contains the frontend UI, which is completely decoupled from the Python ETL pipeline. 
 
-* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Framework:** [Next.js](https://nextjs.org/) 
 * **Styling:** Tailwind CSS + UI Components
 * **Database Connection:** Supabase (PostgreSQL)
 * **Hosting:** Vercel (Continuous Deployment)

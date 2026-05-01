@@ -10,10 +10,9 @@
 <br/>
 
 ## 📱 The Vision
-**MerStats Web** is the mobile-first companion to the MerStats ecosystem. While the Java desktop client is built for deep, big-screen data analysis, this web application is designed specifically for the chaos of competition day. 
+**MerStats Web** is the web companion to the MerStats ecosystem. While the Java desktop client is built for deep, big-screen data analysis, this web application is designed specifically for the chaos of competition day. 
 
-Built for speed and accessibility, MerStats Web allows teams, coaches, and scouters to pull up live TrueRank leaderboards, calculate real-time schedule luck, and view opponent OPR matrices directly from their phones while standing in the tournament pits.
-
+Built for speed and accessibility, MerStats Web allows teams, coaches, and scouters to pull up live TrueRank leaderboards, calculate real-time schedule luck, and view opponents.
 ---
 
 ## 🏗️ Architecture
